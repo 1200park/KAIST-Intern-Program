@@ -1,14 +1,18 @@
 # KAIST-Intern-Program
 # Analyzing the Supply Chain Network Created from the Conventional Relation Extraction Model and Chat-GPT: Focusing On S&P 500 Companies
 
-# Project Overview
+## Overview
+This project aims to provide insights into company activities by structuring and analyzing textual data from financial reports.
 
 ## Key Steps
 1. **Sentence Selection**: Extract sentences from the 10-K reports of S&P 500 companies that describe their annual activities.
 2. **Node Extraction**: Utilize a Relation Extraction (RE) model to extract key nodes from the selected sentences. We employed Chat-GPT and the SSAN (Structured Self-Attention Network) model for this process.
 3. **Relationship Analysis & Visualization**: Identify relationships between extracted nodes, determine key nodes, and visualize their connections.
 
-This project aims to provide insights into company activities by structuring and analyzing textual data from financial reports.
+## Results
+1. **Performance Evaluation**: We assess the effectiveness of Chat-GPT as an RE model by comparing it with existing RE techniques(SSAN).
+2. **Automated Pipeline Development**: We propose an automated pipeline that generates a supply chain network using Chat-GPT and RE models.
+3. **Network Analysis & Visualization**: By analyzing the supply chain networks of S&P 500 companies, we extract key nodes (central nodes) and key paths (main routes) and visualize their relationships.
 
 ## Author
 [Jeong Yeo(faiiry9@kaist.ac.kr); Jaejun Kim(jaejun.kim305@gmail.com); Ilju Park(dlfwnqkr12@gmail.com); Il-chul Moon(icmoon@kaist.ac.kr)]
