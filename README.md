@@ -1,4 +1,6 @@
 # KAIST-Intern-Program
+# Analyzing the Supply Chain Network Created from the Conventional Relation Extraction Model and Chat-GPT: Focusing On S&P 500 Companies
+
 ## 📂 10K_Project.html 다운로드  
 100MB 제한 용량 때문에 Github에 업로드한 코드는 프로젝트 코드 중 일부입니다. <br>
 full version 파일은 Google Drive에서 다운로드하세요.  
@@ -12,3 +14,11 @@ full version 파일은 Google Drive에서 다운로드하세요.
 3. **Relationship Analysis & Visualization**: Identify relationships between extracted nodes, determine key nodes, and visualize their connections.
 
 This project aims to provide insights into company activities by structuring and analyzing textual data from financial reports.
+
+## Author
+[Jeong Yeo(faiiry9@kaist.ac.kr); Jaejun Kim(jaejun.kim305@gmail.com); Ilju Park(dlfwnqkr12@gmail.com); Il-chul Moon(icmoon@kaist.ac.kr)]
+
+## 📂 10K_Project.html 다운로드  
+100MB 제한 용량 때문에 Github에 업로드한 코드는 프로젝트 코드 중 일부입니다. <br>
+full version 파일은 Google Drive에서 다운로드하세요.  
+📥 [10K_Project.html 다운로드](https://drive.google.com/file/d/1bV1aZpKBy8VST4r1k79BIAnp2Quc_fIM/view?usp=sharing)
