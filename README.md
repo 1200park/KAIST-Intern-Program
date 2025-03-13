@@ -4,7 +4,7 @@
 ## Overview
 This project aims to provide insights into company activities by structuring and analyzing textual data from financial reports.
 
-## Key Steps
+## Process
 1. **Sentence Selection**: Extract sentences from the 10-K reports of S&P 500 companies that describe their annual activities.
 2. **Node Extraction**: Utilize a Relation Extraction (RE) model to extract key nodes from the selected sentences. We employed Chat-GPT and the SSAN (Structured Self-Attention Network) model for this process.
 3. **Relationship Analysis & Visualization**: Identify relationships between extracted nodes, determine key nodes, and visualize their connections.
