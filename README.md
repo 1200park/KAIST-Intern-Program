@@ -1,11 +1,6 @@
 # KAIST-Intern-Program
 # Analyzing the Supply Chain Network Created from the Conventional Relation Extraction Model and Chat-GPT: Focusing On S&P 500 Companies
 
-## 📂 10K_Project.html 다운로드  
-100MB 제한 용량 때문에 Github에 업로드한 코드는 프로젝트 코드 중 일부입니다. <br>
-full version 파일은 Google Drive에서 다운로드하세요.  
-📥 [10K_Project.html 다운로드](https://drive.google.com/file/d/1bV1aZpKBy8VST4r1k79BIAnp2Quc_fIM/view?usp=sharing)
-
 # Project Overview
 
 ## Key Steps
